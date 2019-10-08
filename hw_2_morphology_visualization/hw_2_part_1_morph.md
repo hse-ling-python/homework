@@ -105,4 +105,10 @@ m = Mystem(mystem_bin="D:\\mystem.exe")
     <tr><td>по 1</td><td>По одному баллу за решение каждого из пунктов 2-5 (с комментарием)</td></tr>    
 </table>
 
-Ссылки на GiHub Classroom (появятся позже)
+**Ссылки на GiHub Classroom:**
+
+<table>
+    <tr><td>Группы 1 и 2</td><td><a href="https://classroom.github.com/a/5g5V0suG">ссылка</a></td></tr>
+    <tr><td>Группа 3</td><td><a href="https://classroom.github.com/a/Aa55VJZb">ссылка</a></td></tr>    
+    <tr><td>Группа 4</td><td><a href="https://classroom.github.com/a/d9YfUpeM">ссылка</a></td></tr>    
+</table>
