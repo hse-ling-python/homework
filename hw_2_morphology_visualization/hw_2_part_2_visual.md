@@ -32,7 +32,7 @@
   - герои - это упоминания их имен
   - используйте лемматизированный текст
 
-<img src="./hw_2_morphology_visualization/disp_plot.png">
+<img src="./disp_plot.png">
 
 **Чек-лист**
 
