@@ -38,8 +38,8 @@
 
 **Ссылки**:
 
-181 и 182
+[181 и 182](https://classroom.github.com/a/Y_vTRvkK)
 
-183
+[183](https://classroom.github.com/a/XJZGHcDf)
 
-184
+[184](https://classroom.github.com/a/5u5_W3Hn)
