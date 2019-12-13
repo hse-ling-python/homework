@@ -18,10 +18,4 @@
 - папка `static` с файлами .css и с картинками (если они у Вас используются)
 - файл с базой данных
 
-**Ссылки**:
-
-[181 и 182](https://classroom.github.com/a/Y_vTRvkK)
-
-[183](https://classroom.github.com/a/XJZGHcDf)
-
-[184](https://classroom.github.com/a/5u5_W3Hn)
+**Ссылки**: те же, что в части 1 дз5
