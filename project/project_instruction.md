@@ -6,8 +6,9 @@
 
 **Timeline**:
 
-- до 11 мая -- выбрать шаблон/тему и вписать её в табличку. [таблица](https://docs.google.com/spreadsheets/d/1bUGooVM9cY-Vj7vzNUM_YbOosi1UtxDV1XVZrlhHmvM/edit?usp=sharing)
-- до 18 мая -- мы прокомментируем ваш выбор
+- до 14 мая -- выбрать шаблон/тему и вписать её в [таблицу](https://docs.google.com/spreadsheets/d/1bUGooVM9cY-Vj7vzNUM_YbOosi1UtxDV1XVZrlhHmvM/edit?usp=sharing)
+- до 21 мая -- мы прокомментируем ваш выбор
+- 4 июня -- консультация по проектам на паре
 - **7 июня 23:59** -- дедлайн сдачи проекта
 - ссылки:
 
